@@ -40,11 +40,7 @@ cd DocSink
 
 2. **Install required tools:**
 
-If the required tools (`waybackurls` and `httpx`) are not installed, the script will automatically install them for you. However, if you'd like to install them manually, you can use:
-
-```bash
-sudo go install github.com/tomnomnom/waybackurls@latest
-sudo go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+```make sure you have go installed 
 ```
 
 ## Usage
